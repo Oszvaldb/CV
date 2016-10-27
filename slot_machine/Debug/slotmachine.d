@@ -1,0 +1,1 @@
+slotmachine.o: ../slotmachine.cpp
